@@ -148,6 +148,9 @@
     <ClInclude Include="Assessment.h" />
     <ClInclude Include="FileHandler.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="artpromptcollection.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

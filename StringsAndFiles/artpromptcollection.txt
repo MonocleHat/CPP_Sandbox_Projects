@@ -1,0 +1,23 @@
+A character making a leaf-angel,characters,6
+An empty alleyway rife with trash cans and garbage at night,environments,6
+Character modified to look like a jackolantern head cat thing, characters, 10
+Character headbutting at super hgih speed, characters,4
+Jackolanterns,nature,5
+hand study,anatomy,4
+Armor,objects,7
+A Crystal Cove,environments,5
+swords stuck in the ground surrounded by fire, objects,6
+storm of fire, effects, 10
+werelynx,characters,10
+muscle study,anatomy,10
+carvings anywhere,miscellanious,4
+hellhounds,animals,10
+creepy music box, objects, 10
+black widow, insects, 5
+Candles,objects,7
+a bare tree surrounded by its bright orange leaves,nature,10
+an endless closet leads to a hallway, at the end of it is a man whose shadow is casting across the floor,scenarios,10
+something bloody is crawling in the vents, scenarios, 10
+a magical tome reveals untold secrets,scenarios,10
+enchanted skull,anatomy, 10
+orcdad from dnd,characters,10
